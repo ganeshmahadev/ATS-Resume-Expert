@@ -107,7 +107,3 @@ Missing Keywords: Data engineering, solutions, metrics
 ```plaintext
 Ganesh Mahadev Udata is a Master's in Computer Science graduate with a strong academic background in Machine Learning, Artificial Intelligence, and Programming. He possesses proficiency in Python, AI, software development, and machine learning applications...
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -1,6 +1,4 @@
-# Create the README.md file with the generated content in markdown format
 
-readme_content = """
 # ATS Resume Evaluation Application
 
 This project is an **Applicant Tracking System (ATS)**-based application designed to evaluate resumes against job descriptions. It leverages **Google's Generative AI (Gemini)** model to provide insights into how well a resume matches a job description, highlights missing keywords, and generates a profile summary to help improve the resume. The application also includes a dynamic match percentage meter to visualize the match between the resume and job description.
@@ -45,7 +43,7 @@ Before running the application, ensure you have the following installed:
     ```bash
     python -m venv myenv
     source myenv/bin/activate    # On macOS/Linux
-    myenv\\Scripts\\activate       # On Windows
+    myenv\Scripts\activate       # On Windows
     ```
 
 3. Install the required dependencies:
@@ -102,3 +100,25 @@ Before running the application, ensure you have the following installed:
 
 ```plaintext
 Missing Keywords: Data engineering, solutions, metrics
+```
+
+#### Profile Summary:
+
+```plaintext
+Ganesh Mahadev Udata is a Master's in Computer Science graduate with a strong academic background in Machine Learning, Artificial Intelligence, and Programming. He possesses proficiency in Python, AI, software development, and machine learning applications...
+```
+
+## Contributing
+
+We welcome contributions! To get started:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m "Add feature"`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
